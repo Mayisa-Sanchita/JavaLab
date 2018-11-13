@@ -1,0 +1,7 @@
+Write a program the reads
+all they lines from a file
+and, using the Stream<String>
+prints them many of them
+contain the word
+the 
+the 
